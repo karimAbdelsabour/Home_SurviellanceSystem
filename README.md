@@ -33,4 +33,4 @@ OLED Display (e.g., 128x64): Provides a high-resolution and compact interface fo
 Programmed in C language, ensuring real-time performance and reliability.
 _______________________________________________________________________________________________________________________________________
 Project Goals:
-This project combines advanced monitoring and alert features into a single, affordable solution. It enhances household safety and security by providing real-time information and alerts through a user-friendly OLED display i
+This project combines advanced monitoring and alert features into a single, affordable solution. It enhances household safety and security by providing real-time information and alerts through a user-friendly OLED display interface.
